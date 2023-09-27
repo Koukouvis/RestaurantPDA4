@@ -1,0 +1,26 @@
+id,event_date,event_name
+1,2023-05-20,"Meeting with Team A"
+2,2023-05-22,"Project Deadline"
+3,2023-05-25,"Company Event"
+4,2023-05-27,"Client Presentation"
+5,2023-06-02,"Training Session"
+6,2023-06-05,"Product Launch"
+7,2023-06-08,Conference
+8,2023-06-12,"Board Meeting"
+9,2023-06-15,"Holiday Party"
+10,2023-06-18,"Sales Meeting"
+11,2023-06-20,Workshop
+12,2023-06-23,"Team Building Activity"
+13,2023-06-26,"Project Review"
+14,2023-06-29,"Client Visit"
+15,2023-07-01,"Quarterly Report"
+16,2023-07-05,"Team Building Workshop"
+17,2023-07-08,"Product Demo"
+18,2023-07-10,"Client Meeting"
+19,2023-07-12,"Training Session"
+20,2023-07-15,Conference
+21,2023-07-18,"Board Meeting"
+22,2023-07-20,"Company Event"
+23,2023-07-23,"Project Review"
+24,2023-07-25,Workshop
+25,2023-07-28,"Team Lunch"
